@@ -9,6 +9,7 @@
 <h2> dependencies </h2>
 
  1) create virtual environment
+ 
       cd etpy
       python -m venv venv
       source venv/bin/activate
