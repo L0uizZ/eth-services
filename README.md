@@ -3,8 +3,7 @@
 
 <h2> purpose </h2>
 
- 1) check balance of an ethereum address
- 2) check balance of an erc20 contract
+ 1) check the balance of an ethereum address and erc20 contract
 
 <h2> dependencies </h2>
 
