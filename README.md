@@ -10,11 +10,11 @@
 
  1) create virtual environment
 
-      cd etpy
+         cd etpy
 
-      python -m venv venv
+         python -m venv venv
 
-      source venv/bin/activate
+         source venv/bin/activate
 
  2) web3 - module allowing to interact with ethereum blockchain  
       pip install web3
