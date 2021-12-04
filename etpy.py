@@ -1,3 +1,11 @@
+"""
+-------------------------------------------------
+# Web3 - Ethereum Blockchain Interaction
+-------------------------------------------------
+"""
+__author__ = "Louis Hinz"
+__version__ = "0.0.1"
+
 import json
 from web3 import Web3
 import sys
