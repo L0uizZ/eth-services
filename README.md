@@ -3,7 +3,7 @@
 
 <h2> purpose </h2>
 
- 1) check the balance of an ethereum address and erc20 contract
+ 1) check the balance of an ethereum wallet and erc20 contract
 
 <h2> dependencies </h2>
 
@@ -21,8 +21,8 @@
  
 <h2> run </h2>
  
- 1) check balance of ethereum-wallet
+ 1) check the balance of ethereum wallet
 
          python etpy.py
 
- 2) enter ethereum-wallet address and erc20 contract
+ 2) enter wallet address and erc20 contract
