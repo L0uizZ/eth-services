@@ -7,11 +7,14 @@
 
 # dependencies
  1) create virtual environment
-    # cd etpy
-    # python -m venv venv
-    # source venv/bin/activate
+    > cd etpy
+    
+    > python -m venv venv
+    
+    > source venv/bin/activate
+ 
  2) web3 - module allowing to interact with ethereum blockchain
-    # pip install web3
+    > pip install web3
 
 # run
  1) call balance of ethereum-wallet
