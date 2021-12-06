@@ -1,5 +1,5 @@
 
-<h1>Web3 - Ethereum Blockchain Interaction</h1>
+<h1>Ethereum - Web3 Blockchain Interaction</h1>
 
 <h2> purpose </h2>
 
