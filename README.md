@@ -9,7 +9,7 @@
 
  1) create virtual environment
 
-         cd etpy
+         cd eth-services
 
          python -m venv venv
 
@@ -23,6 +23,6 @@
  
  1) check the balance of ethereum wallet
 
-         python etpy.py
+         python eth-history.py
 
  2) enter wallet address and erc20 contract
