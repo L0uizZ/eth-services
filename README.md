@@ -23,6 +23,6 @@
  
  1) check the balance of ethereum wallet
 
-         python eth-history.py
+         python etpy.py
 
  2) enter wallet address and erc20 contract
